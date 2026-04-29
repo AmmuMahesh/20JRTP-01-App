@@ -5,6 +5,8 @@ import java.util.Base64.Decoder;
 import java.util.Base64.Encoder;
 
 public class PasswordService {
+
+	// this is the changes in the feature bh=ranch
 	
 	public static String encode(String txt) 
 	{
